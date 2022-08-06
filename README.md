@@ -1,7 +1,6 @@
 # AirBnB Clone ― The ALX-Holberton BnB
-![Optional Text](hbnb.png)
 # Description of the project
-The goal of the project is to deploy a replica of the[Airbnb Website](www.airbnb.com/ ) using my server. The final version of this project will have:
+The goal of the project is to deploy a replica of the Airbnb Website using my server. The final version of this project will have:
 - A command interpreter to manipulate data without a visual interface, like a shell (for development and debugging)
 - A website (front-end) with static and dynamic functionalities
 - A comprehensive database to manage the backend functionalities
