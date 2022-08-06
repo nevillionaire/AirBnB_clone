@@ -56,40 +56,5 @@ S
 | ```<class>.show(<ID>)```  | Same as show ```<class> <ID>```
 | ```<class>.destroy(<ID>)```  | Same as destroy ```<class> <ID>```
 | ```<class>.update(<ID>, <attribute name>, <attribute value>```  | Same as update ```<class> <ID> <attribute name> <attribute value>```
-| ```<class>.update(<ID>, <dictionary representation>)```  | Updates an objects based on a dictionary representation of attribute names and values
-
-## General Execution
-Your shell should work like this in interactive mode:
-```
-$ ./console.py
-(hbnb) help
-
-Documented commands (type help <topic>):
-========================================
-EOF  help  quit
-(hbnb) 
-(hbnb) 
-(hbnb) quit
-$
-But also in non-interactive mode: (like the Shell project in C)
-
-$ echo "help" | ./console.py
-(hbnb)
-
-Documented commands (type help <topic>):
-========================================
-EOF  help  quit
-(hbnb) 
-$
-$ cat test_help
-help
-$
-$ cat test_help | ./console.py
-(hbnb)
-
-Documented commands (type help <topic>):
-========================================
-EOF  help  quit
-(hbnb)
-$
-
+| ```<class>.update(< ID >, < dictionary representation >)``` | Updates an objects
+ based on a dictionary representation of attribute names and values
