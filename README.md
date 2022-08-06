@@ -1,6 +1,3 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AirBnB_clone.visitor-badge&left_color=grey&right_color=red)
-
-
 # AirBnB Clone ― The ALX-Holberton BnB
 ![Optional Text](hbnb.png)
 ## Description of the project
